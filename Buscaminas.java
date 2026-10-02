@@ -2,11 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package a1.buscaminas;
+package a2.buscaminas;
 
 /**
  *
- * @author PC GAMING
+ * @author ALUMNOS  
  */
 public class Buscaminas extends NewJFrame{
 
